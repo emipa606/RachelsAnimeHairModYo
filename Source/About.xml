@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rachel's Anime Hair Mod, Yo</name>
+  <author>Rachel, yo</author>
+  <packageId>Rachel.Hair.Mod.Yo</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>
+Included hair styles:
+-All Might, from My Hero Academia
+-Levi Ackerman, from Attack on Titan
+-Yona, from Yona of the Dawn
+-Senku, from Dr. Stone (for all your mad scientist needs!)
+-Emma, from The Promised Neverland
+-plus more!
+
+This mod doesn't overwrite any existing vanilla hairstyles. Includes both the original character hair colors and greyscale options for customization.
+
+I designed these with [Nl] Chibi Face Female Only and [Nl] Chibi Face Male Only in mind (fit best with Average Normal), but many fit well with other faces. (Kakashi's hair, unsurprisingly does not fit well on other face types.)
+
+Recommend using Character Editor or Prepare Carefully to adjust the hair to white, if you want it to look like the OG character. 
+
+More coming soon...
+</description>
+</ModMetaData>
