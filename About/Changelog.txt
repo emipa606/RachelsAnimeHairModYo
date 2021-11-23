@@ -1,4 +1,7 @@
 # Changelog for RachelsAnimeHairModYo
 
+1.0.1.0 - Republish as the preview was too large during first publish
+
+
 1.0.0.0 - First publish
 

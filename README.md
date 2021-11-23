@@ -10,7 +10,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2275908721
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
-![Image](https://imgur.com/xDonl3w)
+![Image](https://imgur.com/xDonl3w.png)
 
 Included hair styles:
 -Nezuko (Demon Slayer)
@@ -24,7 +24,7 @@ Included hair styles:
 -Emma, (The Promised Neverland)
 -plus more!
 
-![Image](https://imgur.com/MsFiUVG)
+![Image](https://imgur.com/MsFiUVG.png)
 
 This mod doesn't overwrite any existing vanilla hairstyles and should work with everything.
 
@@ -32,7 +32,7 @@ Includes both the original character hair colors and greyscale options for custo
 
 I designed these with [NL] Chibi Face Female Only and [NL] Chibi Face Male Only in mind (fit best with Average Normal and Pointy), but many fit well with other face shapes. I haven't tested how the hairs look with other face mods, so good luck if you use if different ones. 
 
-![Image](https://imgur.com/uk9ESF3)
+![Image](https://imgur.com/uk9ESF3.png)
 
 All character hairstyles were designed by the original manga authors/artists of the characters, not me. 
 
