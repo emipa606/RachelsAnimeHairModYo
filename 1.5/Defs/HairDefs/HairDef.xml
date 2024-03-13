@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HairDef>
+    <defName>Hair1_RMJ</defName>
+    <label>(RMJ) Emma 1</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Emma_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralEmma_RMJ</defName>
+    <label>(RMJ) Emma 2</label>
+    <hairGender>Any</hairGender>
+    <texPath>Hair/Emma_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>MHair1_RMJ</defName>
+    <label>(RMJ) Male Hair 1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/MHair1_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>Levi_RMJ</defName>
+    <label>(RMJ) Levi Ackerman</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Levi_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicYona_RMJ</defName>
+    <label>(RMJ) Yona 1</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Yona_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralYona_RMJ</defName>
+    <label>(RMJ) Yona 2</label>
+    <hairGender>Any</hairGender>
+    <texPath>Hair/Yona_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicSenku_RMJ</defName>
+    <label>(RMJ) Senku 1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Senku_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralSenku_RMJ</defName>
+    <label>(RMJ) Senku 2</label>
+    <hairGender>Any</hairGender>
+    <texPath>Hair/Senku_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicAllMight_RMJ</defName>
+    <label>(RMJ) All Might 1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/YallMight_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralAllMight_RMJ</defName>
+    <label>(RMJ) All Might 2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/YallMight_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicKakashi_RMJ</defName>
+    <label>(RMJ) Kakashi 1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Kakashi_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralKakashi_RMJ</defName>
+    <label>(RMJ) Kakashi 2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Kakashi_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicChika_RMJ</defName>
+    <label>(RMJ) Chika 1</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Chika_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralChika_RMJ</defName>
+    <label>(RMJ) Chika 2</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Chika_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicTodoroki_RMJ</defName>
+    <label>(RMJ) Todoroki 1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Todoroki_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralTodoroki_RMJ</defName>
+    <label>(RMJ) Todoroki 2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Todoroki_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>ClassicNezuko_RMJ</defName>
+    <label>(RMJ) Nezuko 1</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Nezuko_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+  <HairDef>
+    <defName>NeutralNezuko_RMJ</defName>
+    <label>(RMJ) Nezuko 2</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hair/Nezuko_Neutral_RMJ</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </styleTags>
+  </HairDef>
+</Defs>
